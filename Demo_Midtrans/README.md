@@ -15,7 +15,7 @@ This is a Assignment project.
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 # Steps to clone execute the tests:
-git clone https://github.com/ainendent/demo.midtrans
+git clone https://github.com/ainendent/SDET_Assignment.git
 
 cd demo.midtrans
 
